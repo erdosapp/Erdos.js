@@ -1,0 +1,3 @@
+- split up parsers into parslets
+- Do the conversion of 10cm in inch etc before passing off to next parser
+- add currency conversion

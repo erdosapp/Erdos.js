@@ -1,0 +1,6 @@
+module?.exports.Array   = require('./array')
+module?.exports.Boolean = require('./boolean')
+module?.exports.Number  = require('./number')
+module?.exports.Object  = require('./object')
+module?.exports.String  = require('./string')
+module?.exports.types   = require('./types')
