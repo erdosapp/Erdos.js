@@ -5,4 +5,4 @@ and evaluate them. *Note*: It is not done nor functional yet. Feel free to look 
 
 ## Credits
 
-Erdos is based off the code from [mathjs]() by __
+Erdos was forked from [mathjs](http://mathjs.org/) a JS math library by Jos de Jong
